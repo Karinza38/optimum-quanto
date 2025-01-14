@@ -1,4 +1,4 @@
-# Optimum Quanto
+ # Optimum Quanto
 
 🤗 Optimum Quanto is a pytorch quantization backend for [optimum](https://huggingface.co/docs/optimum/en/index).
 
